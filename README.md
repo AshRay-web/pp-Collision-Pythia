@@ -15,7 +15,7 @@ Project Overview
         Visualization: Generates a pie chart to represent the types and proportions of particles produced during the collisions.
         Focus: Includes only final-state particles in the analysis.
         
-![image](https://github.com/user-attachments/assets/de32ebae-daf2-4e71-9a3d-5817fd2c4737)
+
 
 
     Multithreaded Simulation
@@ -26,7 +26,7 @@ Features
     High-performance simulation using multithreading.
     Data persistence via ROOT files for easy storage and retrieval.
     User-friendly visualization of particle production.
-    
+![image](https://github.com/user-attachments/assets/de32ebae-daf2-4e71-9a3d-5817fd2c4737)
 Using Pythia for simulation and ROOT for Analysis. I have learned about proton-proton collision at 8 TeV. 
 
 
